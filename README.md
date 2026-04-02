@@ -69,7 +69,10 @@ streamlit run app.py
 - Scikit-learn (ML models)
 - Matplotlib, Seaborn (Visualization)
 - Streamlit (Web App)
-
+Note: Large model files (regression_model.pkl, 
+classification_model.pkl) are not included due to 
+GitHub file size limits. Run 03_model_building.ipynb 
+to regenerate them.
 ---
 
 ## 📌 Business Use Cases
